@@ -21,8 +21,22 @@ identifier we assign you. Delete the app and every trace is gone.
 
 ## Purchases go through Apple
 
-Pro is billed by the App Store. We receive an entitlement flag from
-StoreKit. We never see your card, name, or Apple ID.
+Pro is billed by the App Store. To keep your Pro entitlement in sync
+across restarts, reinstalls, and Family Sharing, we use RevenueCat — a
+receipt-validation service used by many iOS apps. RevenueCat receives
+your Apple StoreKit receipt (which contains no card, name, email, or
+Apple ID) and returns an entitlement flag we mirror locally. RevenueCat
+assigns an anonymous session identifier to associate purchases across
+app launches; this identifier is not tied to your Apple ID or to any
+personal information.
+
+## Over-the-air updates
+
+We use Expo Updates to ship bug fixes without requiring you to reinstall
+the app. When the app launches, it asks our update server which
+JavaScript bundle to fetch. The request contains only your device
+platform (iOS), the app's runtime version, and the update channel —
+never any identifier or personal information.
 
 ## No tracking SDKs
 
@@ -40,5 +54,7 @@ StoreKit. We never see your card, name, or Apple ID.
 
 ## Contact
 
-Questions or concerns: open an issue at
+Questions or concerns: email
+[support@honestscanner.app](mailto:support@honestscanner.app) or open an
+issue at
 [github.com/StockGorilla/honest-scanner-legal](https://github.com/StockGorilla/honest-scanner-legal/issues).

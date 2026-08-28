@@ -65,7 +65,15 @@ claim.
 We may update these terms. The current version is always at this URL.
 Continued use after an update constitutes acceptance.
 
-## 8. Contact
+## 8. Governing law
 
-Questions: open an issue at
+These terms are governed by the laws of the State of Delaware, United
+States, without regard to its conflict of laws principles. Any dispute
+arising out of or relating to these terms or the app will be resolved
+exclusively in the state or federal courts located in Delaware.
+
+## 9. Contact
+
+Questions: email [support@honestscanner.app](mailto:support@honestscanner.app)
+or open an issue at
 [github.com/StockGorilla/honest-scanner-legal](https://github.com/StockGorilla/honest-scanner-legal/issues).
