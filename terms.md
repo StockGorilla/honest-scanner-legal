@@ -74,6 +74,6 @@ exclusively in the state or federal courts located in Delaware.
 
 ## 9. Contact
 
-Questions: email [support@honestscanner.app](mailto:support@honestscanner.app)
+Questions: email [support@honestscanner.com](mailto:support@honestscanner.com)
 or open an issue at
 [github.com/StockGorilla/honest-scanner-legal](https://github.com/StockGorilla/honest-scanner-legal/issues).

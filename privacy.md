@@ -55,6 +55,6 @@ never any identifier or personal information.
 ## Contact
 
 Questions or concerns: email
-[support@honestscanner.app](mailto:support@honestscanner.app) or open an
+[support@honestscanner.com](mailto:support@honestscanner.com) or open an
 issue at
 [github.com/StockGorilla/honest-scanner-legal](https://github.com/StockGorilla/honest-scanner-legal/issues).
