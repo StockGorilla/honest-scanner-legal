@@ -7,7 +7,7 @@ permalink: /support/
 
 Need help with Honest Scanner?
 
-- **Email:** [support@honestscanner.app](mailto:support@honestscanner.app)
+- **Email:** [support@honestscanner.com](mailto:support@honestscanner.com)
 - **GitHub Issues:** [github.com/StockGorilla/honest-scanner-legal/issues](https://github.com/StockGorilla/honest-scanner-legal/issues)
 
 We usually reply to email within 1–2 business days.
